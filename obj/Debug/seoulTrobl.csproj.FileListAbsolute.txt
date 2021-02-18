@@ -1,0 +1,9 @@
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\bin\Debug\seoulTrobl.exe.config
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\bin\Debug\seoulTrobl.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\bin\Debug\seoulTrobl.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\bin\Debug\WebDriver.dll
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\bin\Debug\WebDriver.xml
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\obj\Debug\seoulTrobl.csproj.CopyComplete
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\obj\Debug\seoulTrobl.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\obj\Debug\seoulTrobl.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\seoulTrobl\obj\Debug\seoulTrobl.csprojAssemblyReference.cache
