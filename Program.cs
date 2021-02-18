@@ -10,8 +10,7 @@ namespace seoulTrobl
 {
     class Program
     {
-        //static string connectionString = "server = localhost; uid = sa; pwd = 1111; database = PrivateData;";
-        static string connectionString = "server = 10.200.5.73,1477; uid = savewind; pwd = savewind11!; database = CENTER_RAW;";
+        static string connectionString = "server = localhost; uid = sa; pwd = 1111; database = PrivateData;";
         static void Main(string[] args)
         {
             Console.WriteLine("서울시 장애인 현황(장애유형별) 통계");
